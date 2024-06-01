@@ -4,7 +4,7 @@ Hi 👋 My name is Fabien Chenal
 Full stack developer, backend enthusiast
 ----------------------------------------
 
-Full stack developer with 3.5 YoE. Planning to specialize in backend in the next few years. Particularly interested in DevOps tools as well (CI/CD, Docker, Kubernetes, Cloud Deployment...). Eager to learn, motivated and ready for new technical challenges.
+Full stack developer with 3.5 YoE. Planning to become a backend specialist in the next few years. Particularly interested in DevOps tools as well (CI/CD, Docker, Kubernetes, Cloud Deployment...). Eager to learn, motivated and ready for new technical challenges.
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [fabienchenal@gmail.com](mailto:fabienchenal@gmail.com)
