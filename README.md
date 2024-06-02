@@ -11,7 +11,7 @@ Full stack developer with 3.5 YoE. Planning to become a backend specialist in th
 * 🚀  I'm currently working on [Movie Recs](http://movie-recs.onrender.com/)
 * 🧠  I'm learning React, CI/CD tools with Github Actions and Docker
 * 🤝  I'm open to collaborating on any interesting project
-* ⚡  Thinking of something funny, TBA
+* ⚡  Keyboard is mightier than the sword
 
 ### Skills
 
