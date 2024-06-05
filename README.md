@@ -8,7 +8,7 @@ Full stack developer with 3.5 YoE. Planning to become a backend specialist in th
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [fabienchenal@gmail.com](mailto:fabienchenal@gmail.com)
-* 🚀  I'm currently working on my Java, SQL knowledge and programming skills. Will come back to  [Movie Recs](http://movie-recs.onrender.com/) in a few weeks!
+* 🚀  I'm currently working on my Java, SQL knowledge and problem solving skills. Will come back to  [Movie Recs](http://movie-recs.onrender.com/) in a few weeks!
 * 🧠  I'm learning React, CI/CD tools with Github Actions and Docker
 * 🤝  I'm open to collaborating on any interesting project
 * ⚡  Keyboard is mightier than the sword
